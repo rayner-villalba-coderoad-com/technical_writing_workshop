@@ -2,14 +2,22 @@
 date: 05-11-2026
 owner: "Rayner Villalba"
 ---
-# Overview
-- This documentation is the single source of truth for engineering knowledge.
+# Engineering Docs
+> Central engineering documentation for Developers, QA Engineers, and Support Engineers.
 
-We keep it:
+## Overview
+This is a comprehensive documentation for our engineering team, including setup guides, API references, and troubleshooting resources.
 
-- Simple 
-- Modular
-- Easy to scale
-- Role-specific when needed
+## Quick Start
+- **New to the team?** Start with [Onboarding](onboarding/index.md)
+- **Need API details?** Check [API Documentation](api/README.md)
+- **Experiencing issues?** See [Troubleshooting](troubleshooting/README.md)
 
-Each team (Dev, QA, Support) maintains their own onboarding guides, but follows shared engineering standards.
+## Navigation
+- [Overview](overview.md)
+- [Onboarding](onboarding/index.md)
+  - [Developers](onboarding/developers.md)
+  - [QA Engineers](onboarding/qa-engineers.md)
+  - [Support Engineers](onboarding/support-engineers.md)
+- [API Documentation](api/README.md)
+- [Troubleshooting](troubleshooting/README.md)
